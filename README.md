@@ -3,9 +3,9 @@
 **Professor:** Dr. Victor Saha  
 **Institute:** Indian Institute of Foreign Trade (IIFT), Kolkata  
 **Submission Date:** 13th November 2025  
-**Student Name:** [Your Full Name Here]  
-**Roll Number:** [Your Roll Number Here]  
-**Programme & Batch:** [e.g., MBA-IB 2024–26 / MBA-WE 2024–26]
+**Student Name:** B Siddhant 
+**Roll Number:** 80KB
+**Programme & Batch:**  MBA-IB 2024–26 
 
 ---
 
