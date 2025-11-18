@@ -57,7 +57,7 @@ The website serves as the **only submission deliverable** (as per assignment gui
 
 2. **Option 2:**  
    View the live version on GitHub Pages:  
-   → https://github.com/bsiddhant2404/EchoNest
+   → https://bsiddhant2404.github.io/EchoNest/#home
 
 3. **Option 3:**  
    Clone the repository and open locally:
