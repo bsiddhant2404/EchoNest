@@ -57,11 +57,11 @@ The website serves as the **only submission deliverable** (as per assignment gui
 
 2. **Option 2:**  
    View the live version on GitHub Pages:  
-   → https://[your-username].github.io/EcoBrew-Coffee-IMC-Project/
+   → https://github.com/bsiddhant2404/EchoNest
 
 3. **Option 3:**  
    Clone the repository and open locally:
    ```bash
-   git clone https://github.com/[your-username]/EcoBrew-Coffee-IMC-Project.git
-   cd EcoBrew-Coffee-IMC-Project
+   git clone https://github.com/bsiddhant2404/EchoNest
+   cd EcoNest
    open index.html
